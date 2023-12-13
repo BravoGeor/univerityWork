@@ -17,6 +17,7 @@ Camera
 
 Locate the world start up camera and drag it into the player empty. Now that this is grouped together, When the empty moves, so will the camera. To make this a first person camera, drag it into your Capsule so that it's positioned where the head would be. Make sure a little gap is left so that the player wont clip into ceilings. 
 
+![1](https://github.com/BravoGeor/univerityWork/assets/146854370/c94dce7f-25ad-4ef8-91fa-423c82fda5a0)
 
 Coding 
 
