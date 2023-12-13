@@ -79,11 +79,10 @@ After leaving it for a day and taking a relook, I still could not find the error
 **12/12/22**
 Whenever an object touches the lava, the player respawns. This will not help the game was the palaver will need to throw objects in the lava in order to cross it.
 
-
-
 How did I fix this?
 
 Turns out I did not specify what touching the lava made the player respawn. So, to fix this, I have added two extra lines of code that specifies the player. 
+![5](https://github.com/BravoGeor/univerityWork/assets/146854370/307e1b6e-a5a2-4b66-a842-213235bdf0f5)
 
 
 
