@@ -1,4 +1,4 @@
-Tutorial 3 
+**Tutorial 3** 
 
 
 Creating a door with a passcode. This will be my main door that stops the player from going to where they need to go. Clues on the code will be found around the map. 
